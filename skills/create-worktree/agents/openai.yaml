@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Worktree"
+  short_description: "Create a worktree with local env files and setup"
+  default_prompt: "Use $create-worktree to create a separate worktree with the project's local environment files."
